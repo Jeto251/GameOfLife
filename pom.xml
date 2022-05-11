@@ -64,7 +64,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.jeto.game/com.jeto.game.HelloApplication</mainClass>
+                            <mainClass>com.jeto.game/com.jeto.game.App</mainClass>
                         </configuration>
                     </execution>
                 </executions>
