@@ -6,4 +6,6 @@ module com.jeto.game {
 
     opens com.jeto.game to javafx.fxml;
     exports com.jeto.game;
+    exports com.jeto.game.points;
+    opens com.jeto.game.points to javafx.fxml;
 }
